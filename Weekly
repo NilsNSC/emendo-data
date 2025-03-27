@@ -4,359 +4,428 @@
       {
         "start": "07:00",
         "end": "08:00",
-        "activity": "Ät frukost"
+        "activity": "Ät frukost",
+        "color": "#FDD835"
       },
       {
         "start": "08:00",
         "end": "09:00",
-        "activity": "Pendla till jobb/plugg"
+        "activity": "Pendla till jobb/plugg",
+        "color": "#5E35B1"
       },
       {
         "start": "09:00",
         "end": "12:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "12:00",
         "end": "13:00",
-        "activity": "Lunch"
+        "activity": "Lunch",
+        "color": "#FB8C00"
       },
       {
         "start": "13:00",
         "end": "17:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "17:00",
         "end": "18:00",
-        "activity": "Gymma"
+        "activity": "Gymma",
+        "color": "#E53935"
       },
       {
         "start": "18:00",
         "end": "19:00",
-        "activity": "Middag"
+        "activity": "Middag",
+        "color": "#1E88E5"
       },
       {
         "start": "19:00",
         "end": "21:00",
-        "activity": "Plugga eller projektarbete"
+        "activity": "Plugga eller projektarbete",
+        "color": "#9C27B0"
       },
       {
         "start": "21:00",
         "end": "22:00",
-        "activity": "Chilla"
+        "activity": "Chilla",
+        "color": "#757575"
       },
       {
         "start": "22:00",
         "end": "23:00",
-        "activity": "Förberedelse för sänggående"
+        "activity": "Förberedelse för sänggående",
+        "color": "#757575"
       }
     ],
     "tuesday": [
       {
         "start": "07:00",
         "end": "08:00",
-        "activity": "Ät frukost"
+        "activity": "Ät frukost",
+        "color": "#FDD835"
       },
       {
         "start": "08:00",
         "end": "09:00",
-        "activity": "Pendla till jobb/plugg"
+        "activity": "Pendla till jobb/plugg",
+        "color": "#5E35B1"
       },
       {
         "start": "09:00",
         "end": "12:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "12:00",
         "end": "13:00",
-        "activity": "Lunch"
+        "activity": "Lunch",
+        "color": "#FB8C00"
       },
       {
         "start": "13:00",
         "end": "16:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "16:00",
         "end": "17:00",
-        "activity": "Möte eller grupparbete"
+        "activity": "Möte eller grupparbete",
+        "color": "#3949AB"
       },
       {
         "start": "17:00",
         "end": "18:00",
-        "activity": "Gymma"
+        "activity": "Gymma",
+        "color": "#E53935"
       },
       {
         "start": "18:00",
         "end": "19:00",
-        "activity": "Middag"
+        "activity": "Middag",
+        "color": "#1E88E5"
       },
       {
         "start": "19:00",
         "end": "21:00",
-        "activity": "Familjetid eller projekt"
+        "activity": "Familjetid eller projekt",
+        "color": "#9C27B0"
       },
       {
         "start": "21:00",
         "end": "22:00",
-        "activity": "Chilla"
+        "activity": "Chilla",
+        "color": "#757575"
       }
     ],
     "wednesday": [
       {
         "start": "07:00",
         "end": "08:00",
-        "activity": "Ät frukost"
+        "activity": "Ät frukost",
+        "color": "#FDD835"
       },
       {
         "start": "08:00",
         "end": "09:00",
-        "activity": "Pendla"
+        "activity": "Pendla",
+        "color": "#5E35B1"
       },
       {
         "start": "09:00",
         "end": "11:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "11:00",
         "end": "11:30",
-        "activity": "Kort paus / Fika"
+        "activity": "Kort paus / Fika",
+        "color": "#A1887F"
       },
       {
         "start": "11:30",
         "end": "13:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "13:00",
         "end": "14:00",
-        "activity": "Lunch"
+        "activity": "Lunch",
+        "color": "#FB8C00"
       },
       {
         "start": "14:00",
         "end": "17:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "17:00",
         "end": "18:00",
-        "activity": "Promenad eller lätt träning"
+        "activity": "Promenad eller lätt träning",
+        "color": "#8E24AA"
       },
       {
         "start": "18:00",
         "end": "19:00",
-        "activity": "Middag"
+        "activity": "Middag",
+        "color": "#1E88E5"
       },
       {
         "start": "19:00",
         "end": "21:00",
-        "activity": "Fritid eller socialt umgänge"
+        "activity": "Fritid eller socialt umgänge",
+        "color": "#F4511E"
       },
       {
         "start": "21:00",
         "end": "22:00",
-        "activity": "Läsning eller lugn aktivitet"
+        "activity": "Läsning eller lugn aktivitet",
+        "color": "#757575"
       }
     ],
     "thursday": [
       {
         "start": "07:00",
         "end": "08:00",
-        "activity": "Ät frukost"
+        "activity": "Ät frukost",
+        "color": "#FDD835"
       },
       {
         "start": "08:00",
         "end": "09:00",
-        "activity": "Pendla"
+        "activity": "Pendla",
+        "color": "#5E35B1"
       },
       {
         "start": "09:00",
         "end": "12:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "12:00",
         "end": "13:00",
-        "activity": "Lunch"
+        "activity": "Lunch",
+        "color": "#FB8C00"
       },
       {
         "start": "13:00",
         "end": "15:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "15:00",
         "end": "16:00",
-        "activity": "Möte eller grupparbete"
+        "activity": "Möte eller grupparbete",
+        "color": "#3949AB"
       },
       {
         "start": "16:00",
         "end": "17:00",
-        "activity": "Gymma"
+        "activity": "Gymma",
+        "color": "#E53935"
       },
       {
         "start": "17:00",
         "end": "18:00",
-        "activity": "Pendla hem"
+        "activity": "Pendla hem",
+        "color": "#5E35B1"
       },
       {
         "start": "18:00",
         "end": "19:00",
-        "activity": "Middag"
+        "activity": "Middag",
+        "color": "#1E88E5"
       },
       {
         "start": "19:00",
         "end": "21:00",
-        "activity": "Planering eller projekt"
+        "activity": "Planering eller projekt",
+        "color": "#9C27B0"
       },
       {
         "start": "21:00",
         "end": "22:00",
-        "activity": "Chilla"
+        "activity": "Chilla",
+        "color": "#757575"
       }
     ],
     "friday": [
       {
         "start": "07:00",
         "end": "08:00",
-        "activity": "Ät frukost"
+        "activity": "Ät frukost",
+        "color": "#FDD835"
       },
       {
         "start": "08:00",
         "end": "09:00",
-        "activity": "Pendla"
+        "activity": "Pendla",
+        "color": "#5E35B1"
       },
       {
         "start": "09:00",
         "end": "12:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "12:00",
         "end": "13:00",
-        "activity": "Lunch"
+        "activity": "Lunch",
+        "color": "#FB8C00"
       },
       {
         "start": "13:00",
         "end": "15:00",
-        "activity": "Jobba/Plugga"
+        "activity": "Jobba/Plugga",
+        "color": "#43A047"
       },
       {
         "start": "15:00",
         "end": "16:00",
-        "activity": "Avstämningsmöte"
+        "activity": "Avstämningsmöte",
+        "color": "#3949AB"
       },
       {
         "start": "16:00",
         "end": "17:00",
-        "activity": "Gymma"
+        "activity": "Gymma",
+        "color": "#E53935"
       },
       {
         "start": "17:00",
         "end": "19:00",
-        "activity": "Pendla & handla"
+        "activity": "Pendla & handla",
+        "color": "#5E35B1"
       },
       {
         "start": "19:00",
         "end": "20:00",
-        "activity": "Middag"
+        "activity": "Middag",
+        "color": "#1E88E5"
       },
       {
         "start": "20:00",
         "end": "22:00",
-        "activity": "Träffa vänner eller familj"
+        "activity": "Träffa vänner eller familj",
+        "color": "#F4511E"
       }
     ],
     "saturday": [
       {
         "start": "08:00",
         "end": "09:00",
-        "activity": "Ät frukost"
+        "activity": "Ät frukost",
+        "color": "#FDD835"
       },
       {
         "start": "09:00",
         "end": "10:00",
-        "activity": "Lätt träning / Promenad"
+        "activity": "Lätt träning / Promenad",
+        "color": "#8E24AA"
       },
       {
         "start": "10:00",
         "end": "12:00",
-        "activity": "Städa eller hushållssysslor"
+        "activity": "Städa eller hushållssysslor",
+        "color": "#BDBDBD"
       },
       {
         "start": "12:00",
         "end": "13:00",
-        "activity": "Lunch"
+        "activity": "Lunch",
+        "color": "#FB8C00"
       },
       {
         "start": "13:00",
         "end": "15:00",
-        "activity": "Fritidsaktivitet (hobby, sport, etc.)"
+        "activity": "Fritidsaktivitet (hobby, sport, etc.)",
+        "color": "#FB8500"
       },
       {
         "start": "15:00",
         "end": "17:00",
-        "activity": "Chilla eller träffa vänner"
+        "activity": "Chilla eller träffa vänner",
+        "color": "#F4511E"
       },
       {
         "start": "17:00",
         "end": "18:00",
-        "activity": "Middag"
+        "activity": "Middag",
+        "color": "#1E88E5"
       },
       {
         "start": "18:00",
         "end": "21:00",
-        "activity": "Socialt umgänge eller filmkväll"
+        "activity": "Socialt umgänge eller filmkväll",
+        "color": "#F4511E"
       }
     ],
     "sunday": [
       {
         "start": "08:00",
         "end": "09:00",
-        "activity": "Ät frukost"
+        "activity": "Ät frukost",
+        "color": "#FDD835"
       },
       {
         "start": "09:00",
         "end": "10:00",
-        "activity": "Lätt träning / Yoga"
+        "activity": "Lätt träning / Yoga",
+        "color": "#8E24AA"
       },
       {
         "start": "10:00",
         "end": "12:00",
-        "activity": "Planera kommande vecka"
+        "activity": "Planera kommande vecka",
+        "color": "#7CB342"
       },
       {
         "start": "12:00",
         "end": "13:00",
-        "activity": "Lunch"
+        "activity": "Lunch",
+        "color": "#FB8C00"
       },
       {
         "start": "13:00",
         "end": "15:00",
-        "activity": "Familjetid eller hobby"
+        "activity": "Familjetid eller hobby",
+        "color": "#F4511E"
       },
       {
         "start": "15:00",
         "end": "17:00",
-        "activity": "Laga matlådor / Förberedelse"
+        "activity": "Laga matlådor / Förberedelse",
+        "color": "#7CB342"
       },
       {
         "start": "17:00",
         "end": "18:00",
-        "activity": "Middag"
+        "activity": "Middag",
+        "color": "#1E88E5"
       },
       {
         "start": "18:00",
         "end": "20:00",
-        "activity": "Avkoppling (läsning, film, etc.)"
+        "activity": "Avkoppling (läsning, film, etc.)",
+        "color": "#757575"
       },
       {
         "start": "20:00",
         "end": "21:00",
-        "activity": "Kvällsrutin"
+        "activity": "Kvällsrutin",
+        "color": "#757575"
       }
     ]
   }
